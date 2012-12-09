@@ -1,0 +1,9 @@
+Compound|Canonicalized
+Compound Complexity|
+Count|Hydrogen Bond Acceptor
+Count|Hydrogen Bond Donor
+Count|Rotatable Bond
+Mass|Exact
+Molecular Weight|
+Topological|Polar Surface Area
+Weight|MonoIsotopic
