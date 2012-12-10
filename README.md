@@ -1,3 +1,3 @@
-cheminformatics
-Daniel Hathorn and Gurpreet Nanda
+Cheminformatics
 ===============
+Daniel Hathorn and Gurpreet Nanda
